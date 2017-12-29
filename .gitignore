@@ -1,4 +1,6 @@
-#IDEA 项目文件排除
+﻿#IDEA 项目文件排除
+.idea
 *.iml
-.idea/
-*/target
+out
+gen
+/target
